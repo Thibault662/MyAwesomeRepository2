@@ -6,7 +6,4 @@ These are changes on the main branch
 
 The very big issue is now fixed
 
-extra change
-
 now it is solved
-
